@@ -1,6 +1,6 @@
 cask "daymon" do
-  version "0.1.0"
-  sha256 "16254a45dfc57e25dc66bdc4c4233a4e287a6251d232cec4ee6804ec4e29f6e5"
+  version "0.1.1"
+  sha256 "7f2bcf803fa52c33f1e19dcde27b159140ca8969796594b133ca7c56c7e378ac"
 
   url "https://github.com/daymonio/daymon/releases/download/v#{version}/Daymon-0.1.0-arm64.dmg"
   name "Daymon"
