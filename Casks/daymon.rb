@@ -1,8 +1,8 @@
 cask "daymon" do
-  version "0.1.20"
-  sha256 "66f63b9272d5c6d509f7c25699efc751c4eae9ec11c335bde1343c3388bb1408"
+  version "0.1.21"
+  sha256 "bc43fd49f7d4f14980f7fac132342544db64b9e262dfad06e94f2cb0a9c5366c"
 
-  url "https://github.com/daymonio/daymon/releases/download/v#{version}/Daymon-0.1.20-universal.dmg"
+  url "https://github.com/daymonio/daymon/releases/download/v#{version}/Daymon-0.1.21-universal.dmg"
   name "Daymon"
   desc "Open source autopilot for Claude - scheduled tasks, memory, background automation"
   homepage "https://daymon.io"
